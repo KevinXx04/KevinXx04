@@ -21,7 +21,7 @@
 - 💻 Full Stack Developer with experience in Node.js, React, and Python
 - 🌟 100+ credits completed | 8+ months of development experience
 - 🚀 Contributor to social impact projects with FUNCAVIDA
-- 🌐 Personal portfolio: [kevinalvarado.dev](https://portfolio.github.io)
+- 🌐 Personal portfolio: [https://kevinxx04.github.io/portfolio.github.io/](https://kevinxx04.github.io/portfolio.github.io/)
 - 📧 Available for freelance projects and job opportunities
 - 📄 [LinkedIn](https://www.linkedin.com/in/kevinalvaradovargas/)
 
@@ -200,8 +200,8 @@ Modern and responsive web interface for the FUNCAVIDA management system.
 <br>
 
 <li>
-<a href="https://portfolio.github.io" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio:  kevinxx04.github.io-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt=portfolio style="margin-bottom: 5px;" />
+<a href="https://kevinxx04.github.io/portfolio.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio: kevinxx04.github.io/portfolio.github.io-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt=portfolio style="margin-bottom: 5px;" />
 </a>
 </li>
 	
